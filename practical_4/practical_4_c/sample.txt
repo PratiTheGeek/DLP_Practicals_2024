@@ -1,0 +1,2 @@
+I want to calculate a number. The number of characters,words and lines.
+All I know is that \n is the ending character.
